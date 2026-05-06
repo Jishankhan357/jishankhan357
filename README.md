@@ -36,11 +36,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jishankhan357&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishankhan357&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jishankhan357&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
 ---
 
 ### 📫 Let's Connect

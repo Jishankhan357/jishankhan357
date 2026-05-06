@@ -9,14 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Final-year B.Tech CSE (2022-2026) at Jagannath University.
-- 💼 **Experience:** Completed the **Infosys Springboard 7.0** virtual internship, focusing on the Java tech stack.
-- 🌱 **Currently Building:** 
-  - **Medicamp:** An offline-first healthcare platform bridging the digital divide in rural areas (utilizing Service Workers & IndexedDB).
-  - **Car Rental Service Platform:** A collaborative full-stack application featuring role-based authentication and custom admin dashboards.
-- 🎥 **Content Creation:** Launching a technical YouTube channel to share my GitHub Student Developer Pack journey and document my projects. 
-- 🔐 **Exploring:** Penetration testing, Bug Bounty mechanics (HackerOne, Bugcrowd), and cybersecurity fundamentals.
-- 💬 **Ask me about:** MERN stack architecture, Java, or how to build in public!
+- 🎓 **Education:** Final-year B.Tech CSE (2022-2026) at Jagannath University, Jaipur.
+- 💼 **Experience:** Loading...
+- 🎥 **Content Creation:** Loading... 
+- 🔐 **Exploring:** Loading...
+- 💬 **Ask me about:** Loading...
 
 ---
 
@@ -55,7 +52,7 @@
   <a href="mailto:jishankh73@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank">
+  <a href="www.youtube.com/@jishankhan_357" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>

@@ -2,14 +2,14 @@
 <h3 align="center">Full Stack Developer (MERN & Java) | Building in Public 🚀</h3>
 
 <p align="center">
-  I am a final-year B.Tech Computer Science and Engineering student passionate about crafting efficient, scalable solutions and documenting my engineering journey. Whether it's building offline-first systems or diving into cybersecurity, I'm always aiming to improve 1% every day.
+  I am a B.Tech Computer Science and Engineering student passionate about crafting efficient, scalable solutions. I'm always aiming to improve 1% every day.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Final-year B.Tech CSE (2022-2026) at Jagannath University, Jaipur.
+- 🎓 **Education:** B.Tech CSE (2022-2026) at Jagannath University, Jaipur.
 - 💼 **Experience:** Loading...
 - 🎥 **Content Creation:** Loading... 
 - 🔐 **Exploring:** Loading...

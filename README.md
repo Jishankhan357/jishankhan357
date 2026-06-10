@@ -2,18 +2,18 @@
 <h3 align="center">Full Stack Developer (MERN & Java) | Building in Public 🚀</h3>
 
 <p align="center">
-  I am a B.Tech Computer Science and Engineering student passionate about crafting efficient, scalable solutions. I'm always aiming to improve 1% every day.
+  Software Engineer passionate about crafting efficient, scalable solutions. I'm always aiming to improve 1% every day.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** B.Tech CSE (2022-2026) at Jagannath University, Jaipur.
-- 💼 **Experience:** Loading...
-- 🎥 **Content Creation:** Loading... 
-- 🔐 **Exploring:** Loading...
-- 💬 **Ask me about:** Loading...
+- 🎓 **Education:** B.Tech Computer Science & Engineering (2022-2026) | Jagannath University, Jaipur.
+- 💼 **Experience:** Infosys Springboard & CODTECH IT SOLUTIONS.
+- 🎥 **Content Creation:** Building in Public & Personal Portfolio. 
+- 🔐 **Exploring:** Cybersecurity & System Architecture.
+- 💬 **Ask me about:** MERN Stack, Java Spring Boot, & Full-Stack Development.
 
 ---
 
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/mohammad-jishan-5a083627a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jishankh73@gmail.com.com" target="_blank">
+  <a href="mailto:jishankh73@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mohammadjishanportfolio.netlify.app/" target="_blank">

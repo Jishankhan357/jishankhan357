@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Jishan</h1>
-<h3 align="center">Full Stack Developer (MERN & Java) | Building in Public 🚀</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   Software Engineer passionate about crafting efficient, scalable solutions. I'm always aiming to improve 1% every day.

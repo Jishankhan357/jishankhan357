@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Jishan</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer | Full Stack | MERN | Cybersecurity</h3>
 
 <p align="center">
-  Software Engineer passionate about crafting efficient, scalable solutions. I'm always aiming to improve 1% every day.
+  Software Developer passionate about crafting efficient, scalable solutions. I'm always aiming to improve 1% every day.
 </p>
 
 ---
@@ -11,9 +11,7 @@
 
 - 🎓 **Education:** B.Tech Computer Science & Engineering (2022-2026) | Jagannath University, Jaipur.
 - 💼 **Experience:** Infosys Springboard & CODTECH IT SOLUTIONS.
-- 🎥 **Content Creation:** Building in Public & Personal Portfolio. 
 - 🔐 **Exploring:** Cybersecurity & System Architecture.
-- 💬 **Ask me about:** MERN Stack, Java Spring Boot, & Full-Stack Development.
 
 ---
 
@@ -42,13 +40,13 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-jishan-5a083627a/" target="_blank">
+  <a href="https://www.linkedin.com/in/jishankhan357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jishankh73@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mohammadjishanportfolio.netlify.app/" target="_blank">
+  <a href="https://mohammadjishan.me/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
 </a>
 </p>
